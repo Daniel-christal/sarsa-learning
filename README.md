@@ -102,6 +102,11 @@ def sarsa(env,
 
 <img width="746" height="645" alt="image" src="https://github.com/user-attachments/assets/7c2c03d0-b8df-4222-a325-e676925365a1" />
 
+## Graph comparison:
+<img width="1692" height="615" alt="image" src="https://github.com/user-attachments/assets/024ac68d-4991-471f-a91e-2cb85f547cd0" />
+
+<img width="1759" height="612" alt="image" src="https://github.com/user-attachments/assets/d618bbde-ed9f-4885-a08c-dc03c41bd3bc" />
+
 
 
 ## RESULT:
